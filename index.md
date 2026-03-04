@@ -37,9 +37,10 @@ I would welcome a brief 15-minute call with our partners to explain how DINO wor
 
 ---
 
-### 📅 Key Dates
+### Key Dates
 * **Deadline to confirm participation:** 28th February 2026
 * **Pilot activity to be completed by:** 15th June 2026
 
 ![DINO Project Image](https://raw.githubusercontent.com/shumpway/shumpway.github.io/main/373A8298-B575-423B-89DA-B8FB3DEF7786.png)
+
 
