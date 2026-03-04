@@ -2,7 +2,6 @@
 layout: default
 title: DINO Pilot Program
 ---
-
 # DINO Pilot Program
 
 ### What the pilot includes (completely free)
@@ -26,7 +25,6 @@ title: DINO Pilot Program
 ### What the pilot requires from you
 * **Time commitment:** Approximately 2–3 hours total per class (setup, supervision during the 15-min sessions, review of results)
 * **No personal data collected:** Children are assigned anonymous codes. Your school remains fully GDPR-compliant with no additional data processing agreements required.
-* **Your feedback** ---
 
 ### Next steps
 I would welcome a brief 15-minute call with our partners to explain how DINO works and assess whether it might be useful for your setting. Alternatively, I'm happy to send a short video demonstration if that's more convenient.
@@ -42,5 +40,3 @@ I would welcome a brief 15-minute call with our partners to explain how DINO wor
 * **Pilot activity to be completed by:** 15th June 2026
 
 ![DINO Project Image](https://raw.githubusercontent.com/shumpway/shumpway.github.io/main/373A8298-B575-423B-89DA-B8FB3DEF7786.png)
-
-
