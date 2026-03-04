@@ -1,3 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: DINO Pilot Program
 description: Cognitive Screening Platform
+show_downloads: false
