@@ -3,6 +3,7 @@ layout: default
 title: DINO Pilot Program
 ---
 # DINO Pilot Program
+Participate in a free pilot programme for an innovative early identification tool for learning difficulties, developed in partnership with the University of Warwick.
 
 ### What the pilot includes (completely free)
 * **Full access** to the DINO platform for your Reception and Year 1 and 2 classes
@@ -27,7 +28,9 @@ title: DINO Pilot Program
 * **No personal data collected:** Children are assigned anonymous codes. Your school remains fully GDPR-compliant with no additional data processing agreements required.
 
 ### Next steps
-I would welcome a brief 15-minute call with our partners to explain how DINO works and assess whether it might be useful for your setting. Alternatively, I'm happy to send a short video demonstration if that's more convenient.
+We already conducted the three successful poc in the Birmingham area and we are now offering the same opportunity to other 10 schools before the end of the year..
+I would welcome a brief 15-minute call to explain how DINO works and assess whether it might be useful for your setting. Alternatively, I'm happy to send a short video demonstration if that's more convenient.
+
 
 **Limited Availability:** We have capacity for 10 pilot schools in this phase, with **6 committed** as of today. Remaining spots will be allocated on a first-come, first-serve basis.
 
@@ -40,3 +43,4 @@ I would welcome a brief 15-minute call with our partners to explain how DINO wor
 * **Pilot activity to be completed by:** 15th June 2026
 
 ![DINO Project Image](https://raw.githubusercontent.com/shumpway/shumpway.github.io/main/373A8298-B575-423B-89DA-B8FB3DEF7786.png)
+
