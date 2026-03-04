@@ -3,35 +3,48 @@ layout: default
 title: DINO Pilot Program
 ---
 <style>
-  /* Font e Colore del Testo Principale (Paperbox Style) */
-  body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color: #1a2b3c; /* Blu scuro professionale */
+  /* Importazione Font Interessanti */
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Inter:wght@400;600&display=swap');
+
+  body { 
+    font-family: 'Inter', sans-serif; 
+    color: #1a2b3c; 
+    line-height: 1.6;
   }
 
-  /* Colore dei Titoli */
-  h1, h2, h3 {
-    color: #00a896; /* Verde acqua/Azzurro tipico di Paperbox */
+  h1 { 
+    font-family: 'Montserrat', sans-serif;
+    color: #00a896; 
+    border-bottom: 3px solid #00a896; 
+    padding-bottom: 15px;
+    letter-spacing: -1px;
   }
 
-  /* Stile dei Link */
-  a {
-    color: #00a896;
-    text-decoration: none;
-    font-weight: bold;
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #1a2b3c;
+    margin-top: 30px;
   }
 
-  a:hover {
-    text-decoration: underline;
+  .highlight-box {
+    background-color: #f0f7f6;
+    border-left: 5px solid #00a896;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 4px;
   }
-
-  /* Nasconde definitivamente il link GitHub Profile */
-  header ul, .button {
-    display: none !important;
-  }
+  header ul, .button { display: none !important; }
 </style>
+
+# Join the DINO Pilot Program
+
+<div class="highlight-box">
+  <strong>Empowering early identification:</strong> Join our free pilot program to access innovative screening tools for learning difficulties, developed in collaboration with the <strong>University of Warwick</strong>.
+</div>
+
+[Visit Paperbox Health](https://paperbox.health/en)
 # DINO Pilot Program
-Participate in a free pilot programme for an innovative early identification tool for learning difficulties, developed in partnership with the University of Warwick.
+Empowering early identification: Join our free pilot program to access innovative screening tools for learning difficulties, developed in collaboration with the University of Warwick.
 
 ### What the pilot includes (completely free)
 * **Full access** to the DINO platform for your Reception and Year 1 and 2 classes
@@ -62,7 +75,7 @@ I would welcome a brief 15-minute call to explain how DINO works and assess whet
 
 **Limited Availability:** We have capacity for 10 pilot schools in this phase, with **6 committed** as of today. Remaining spots will be allocated on a first-come, first-serve basis.
 
-[📅 **Book a call directly on our CALENDAR**](https://koalendar.com/e/meet-with-francesco-garosci)
+[🚀 **Book a call directly on our CALENDAR**](https://koalendar.com/e/meet-with-francesco-garosci)
 
 ---
 
@@ -71,6 +84,7 @@ I would welcome a brief 15-minute call to explain how DINO works and assess whet
 * **Pilot activity to be completed by:** 15th June 2026
 
 ![DINO Project Image](https://raw.githubusercontent.com/shumpway/shumpway.github.io/main/373A8298-B575-423B-89DA-B8FB3DEF7786.png)
+
 
 
 
