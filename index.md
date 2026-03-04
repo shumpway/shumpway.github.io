@@ -2,6 +2,34 @@
 layout: default
 title: DINO Pilot Program
 ---
+<style>
+  /* Font e Colore del Testo Principale (Paperbox Style) */
+  body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #1a2b3c; /* Blu scuro professionale */
+  }
+
+  /* Colore dei Titoli */
+  h1, h2, h3 {
+    color: #00a896; /* Verde acqua/Azzurro tipico di Paperbox */
+  }
+
+  /* Stile dei Link */
+  a {
+    color: #00a896;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /* Nasconde definitivamente il link GitHub Profile */
+  header ul, .button {
+    display: none !important;
+  }
+</style>
 # DINO Pilot Program
 Participate in a free pilot programme for an innovative early identification tool for learning difficulties, developed in partnership with the University of Warwick.
 
@@ -42,11 +70,7 @@ I would welcome a brief 15-minute call to explain how DINO works and assess whet
 * **Deadline to confirm participation:** 28th February 2026
 * **Pilot activity to be completed by:** 15th June 2026
 
-body {
-    font-family: 'Helvetica', sans-serif;
-  }
-</style>
-
 ![DINO Project Image](https://raw.githubusercontent.com/shumpway/shumpway.github.io/main/373A8298-B575-423B-89DA-B8FB3DEF7786.png)
+
 
 
