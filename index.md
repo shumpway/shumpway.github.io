@@ -34,7 +34,7 @@ I would welcome a brief 15-minute call to explain how DINO works and assess whet
 
 **Limited Availability:** We have capacity for 10 pilot schools in this phase, with **6 committed** as of today. Remaining spots will be allocated on a first-come, first-serve basis.
 
-*[📅 **Book a call directly on our CALENDAR**](https://koalendar.com/e/meet-with-francesco-garosci)
+[📅 **Book a call directly on our CALENDAR**](https://koalendar.com/e/meet-with-francesco-garosci)
 
 ---
 
@@ -42,5 +42,11 @@ I would welcome a brief 15-minute call to explain how DINO works and assess whet
 * **Deadline to confirm participation:** 28th February 2026
 * **Pilot activity to be completed by:** 15th June 2026
 
+body {
+    font-family: 'Helvetica', sans-serif;
+  }
+</style>
+
 ![DINO Project Image](https://raw.githubusercontent.com/shumpway/shumpway.github.io/main/373A8298-B575-423B-89DA-B8FB3DEF7786.png)
+
 
